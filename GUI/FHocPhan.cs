@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-	public partial class FHocPhan : Form
-	{
-		public FHocPhan()
-		{
-			InitializeComponent();
-		}
-	}
+    public partial class FHocPhan : Form
+    {
+        public FHocPhan()
+        {
+            InitializeComponent();
+            FHocPhanLoad();
+        }
+        public void FHocPhanLoad()
+        {
+            dataGridView_DSHocPhan.DataSource = BUS.HocPhanBUS.Instance.getAllHocPhan();
+        }
+
+        private void dataGridView_DSHocPhan_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+    }
 }
