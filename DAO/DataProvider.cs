@@ -11,7 +11,7 @@ namespace DAO
 	public class DataProvider
 	{
 		// Using this for your string connection		
-		private string connectionSTR = "Data Source=DESKTOP-0LKMS10\\SQLEXPRESS01;Initial Catalog=QuanLyDiemSinhVienN8;Integrated Security=True";
+		private string connectionSTR = "Data Source=.;Initial. Catalog=QuanLyDiemSinhVienN8;Integrated Security=True";
 
 
 		private static DataProvider instance;
