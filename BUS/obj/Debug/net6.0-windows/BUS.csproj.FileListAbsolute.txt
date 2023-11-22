@@ -32,3 +32,37 @@ E:\3\HK1\PTTK HDT\Đồ án cuối kỳ\Code\DoAn\QuanLyDiemSinhVien\BUS\obj\Deb
 E:\3\HK1\PTTK HDT\Đồ án cuối kỳ\Code\DoAn\QuanLyDiemSinhVien\BUS\obj\Debug\net6.0-windows\BUS.pdb
 E:\3\HK1\PTTK HDT\Đồ án cuối kỳ\Code\DoAn\QuanLyDiemSinhVien\BUS\obj\Debug\net6.0-windows\BUS.genruntimeconfig.cache
 E:\3\HK1\PTTK HDT\Đồ án cuối kỳ\Code\DoAn\QuanLyDiemSinhVien\BUS\obj\Debug\net6.0-windows\ref\BUS.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DAO.deps.json
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DAO.runtimeconfig.json
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DTO.deps.json
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DTO.runtimeconfig.json
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DTO.exe
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DAO.exe
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\BUS.exe
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\BUS.deps.json
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\BUS.runtimeconfig.json
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\BUS.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\BUS.pdb
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DAO.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DTO.dll
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DAO.pdb
+D:\workplace\C#\HDT_Demo\BUS\bin\Debug\net6.0-windows\DTO.pdb
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.csproj.AssemblyReference.cache
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.Form1.resources
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.csproj.GenerateResource.cache
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.AssemblyInfoInputs.cache
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.AssemblyInfo.cs
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.csproj.CoreCompileInputs.cache
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.csproj.CopyComplete
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.dll
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\refint\BUS.dll
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.pdb
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\BUS.genruntimeconfig.cache
+D:\workplace\C#\HDT_Demo\BUS\obj\Debug\net6.0-windows\ref\BUS.dll

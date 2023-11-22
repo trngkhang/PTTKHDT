@@ -22,3 +22,27 @@ E:\3\HK1\PTTK HDT\Đồ án cuối kỳ\Code\DoAn\QuanLyDiemSinhVien\DTO\obj\Deb
 E:\3\HK1\PTTK HDT\Đồ án cuối kỳ\Code\DoAn\QuanLyDiemSinhVien\DTO\obj\Debug\net6.0-windows\DTO.pdb
 E:\3\HK1\PTTK HDT\Đồ án cuối kỳ\Code\DoAn\QuanLyDiemSinhVien\DTO\obj\Debug\net6.0-windows\DTO.genruntimeconfig.cache
 E:\3\HK1\PTTK HDT\Đồ án cuối kỳ\Code\DoAn\QuanLyDiemSinhVien\DTO\obj\Debug\net6.0-windows\ref\DTO.dll
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\DTO.exe
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\DTO.deps.json
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\DTO.runtimeconfig.json
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\DTO.dll
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\DTO.pdb
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\workplace\C#\HDT_Demo\DTO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.csproj.AssemblyReference.cache
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.Form1.resources
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.csproj.GenerateResource.cache
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.AssemblyInfoInputs.cache
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.AssemblyInfo.cs
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.csproj.CoreCompileInputs.cache
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.csproj.CopyComplete
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.dll
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\refint\DTO.dll
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.pdb
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\DTO.genruntimeconfig.cache
+D:\workplace\C#\HDT_Demo\DTO\obj\Debug\net6.0-windows\ref\DTO.dll
